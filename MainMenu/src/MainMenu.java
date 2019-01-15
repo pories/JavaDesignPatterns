@@ -11,7 +11,7 @@ public class MainMenu {
 		switch (input) {
 		case "1":
 			//https://www.youtube.com/watch?v=94t2ayF1l3o
-			//Strategy.Execute();
+			Strategy.Execute();
 			break;
 		case "2":
 			//https://www.youtube.com/watch?v=xgkbirZrwAs&index=4&list=PL8C53D99ABAD3F4C8			

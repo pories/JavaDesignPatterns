@@ -6,5 +6,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/Singleton"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Adapter"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/FactoryMethod"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Strategy"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
