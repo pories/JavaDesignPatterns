@@ -27,7 +27,7 @@ public class MainMenu {
 			break;
 		case "5":
 			//https://www.youtube.com/watch?v=nk9Z1vwO3RI
-			//Decorator.Execute();
+			Decorator.Execute();
 			break;
 		default:
 			System.out.println("Didn't Choose Anything.");
