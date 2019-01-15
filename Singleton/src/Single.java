@@ -9,10 +9,10 @@ class Single {
 	// static method to create instance of Singleton class and makes sure that only one is created. 
 	public static Single GetInstance()
 	{
-		//if(null == myvar1){myvar1 = new Single();}
-		//return myvar1;
-		
-		return myvar1 =  (myvar1==null) ? myvar1 = new Single() :null ;
+		if(null == myvar1){myvar1 = new Single();}
+		return myvar1;
+		//This ternary doesn't work on rerun.
+		//return myvar1 =  (myvar1==null) ? myvar1 = new Single() :null ;
 	}
 	//Showing that program is doing something. 
 	public void DoSomething(String msg)

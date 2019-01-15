@@ -15,7 +15,7 @@ public class MainMenu {
 			break;
 		case "2":
 			//https://www.youtube.com/watch?v=xgkbirZrwAs&index=4&list=PL8C53D99ABAD3F4C8			
-			//Singleton.Execute();
+			Singleton.Execute();
 			break;
 		case "3":
 			//https://www.youtube.com/watch?v=qzxp9p7UP_Y 
