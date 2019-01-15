@@ -19,7 +19,7 @@ public class MainMenu {
 			break;
 		case "3":
 			//https://www.youtube.com/watch?v=qzxp9p7UP_Y 
-			//Factory.Execute();
+			Factory.Execute();
 			break;
 		case "4":
 			//https://www.dotnettricks.com/learn/designpatterns/adapter-design-pattern-dotnet
