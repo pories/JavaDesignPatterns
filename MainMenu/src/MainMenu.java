@@ -23,7 +23,7 @@ public class MainMenu {
 			break;
 		case "4":
 			//https://www.dotnettricks.com/learn/designpatterns/adapter-design-pattern-dotnet
-			//Adapter.Execute();
+			Adapter.Execute();
 			break;
 		case "5":
 			//https://www.youtube.com/watch?v=nk9Z1vwO3RI
