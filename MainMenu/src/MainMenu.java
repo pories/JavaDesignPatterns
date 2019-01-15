@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class MainMenu {
 	public static Boolean userMainMenu() {
-		// TODO Auto-generated method stub
 		boolean repeat = true;
 		System.out.println("Design Patterns");
 		System.out.println("Here is a list of design patterns.");
